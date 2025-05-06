@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">bgnetwork_module_app</string>
+
+    <string name="to_net">ke Networking Activity</string>
+    <string name="to_retrofit">ke Retrofit Activity</string>
+
+    <string name="start_task">Start Task</string>
+    <string name="status">Status</string>
+    <string name="hidden_text">Now you see me!</string>
+    <string name="task_completed">Task Completed</string>
+    <string name="compressing">Compresssing %d %%</string>
+
+    <string name="quote">When do you think people die? When they are shot through the heart by the bullet of a pistol? No. When they are ravaged by an incurable disease? No. When they drink a soup made from a poisonous mushroom!? No! It’s when… they are FORGOTTEN.</string>
+    <string name="author">- Dr. Hiluluk</string>
+    <string name="show_list_quotes">Show me list of quotes</string>
+
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="review">Review</string>
+    <string name="write_your_review_here">Write your review here..</string>
+    <string name="send">Kirim</string>
+</resources>

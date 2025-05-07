@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">architecture_component_app</string>
+    <string name="to_vm">to View Model</string>
+    <string name="to_ld">to LiveData</string>
+    <string name="to_ld_api">to LiveData API</string>
+    <string name="to_ld_single">to LiveData Single Event</string>
+    <string name="to_ktx">to (Activity and Fragment) with KTX</string>
+
+    <string name="width">Lebar</string>
+    <string name="result">Hasil</string>
+    <string name="calculate">Hitung</string>
+    <string name="height">Tinggi</string>
+    <string name="length">Panjang</string>
+
+    <string name="seconds">%d seconds elapsed</string>
+    <string name="hello_dicoding">Hello Dicoding!</string>
+
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="review">Review</string>
+    <string name="write_your_review_here">Write your review here..</string>
+    <string name="send">Kirim</string>
+</resources>

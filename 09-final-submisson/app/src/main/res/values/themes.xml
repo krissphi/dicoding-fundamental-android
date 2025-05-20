@@ -1,0 +1,73 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Dicoding_events_mid_submission_app" parent="Theme.Material3.DayNight">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/light_primary</item>
+        <item name="colorOnPrimary">@color/light_onPrimary</item>
+        <item name="colorPrimaryVariant">@color/light_primaryVariant</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/light_secondary</item>
+        <item name="colorOnSecondary">@color/light_onSecondary</item>
+        <item name="colorSecondaryVariant">@color/light_secondaryVariant</item>
+
+        <!-- Background & surface -->
+        <item name="android:colorBackground">@color/light_background</item>
+        <item name="colorOnBackground">@color/light_onBackground</item>
+        <item name="colorSurface">@color/light_surface</item>
+        <item name="colorOnSurface">@color/light_onSurface</item>
+
+        <!-- Error colors -->
+        <item name="colorError">@color/light_error</item>
+        <item name="colorOnError">@color/light_onError</item>
+
+        <!-- StatusBar & Navigation -->
+        <item name="android:statusBarColor">@color/light_statusBarColor</item>
+        <item name="android:navigationBarColor">@color/light_navBarColor</item>
+
+        <item name="dividerColor">@color/light_divider</item>
+        <item name="rippleColor">@color/light_ripple</item>
+    </style>
+
+    <style name="Theme.Dicoding_events_mid_submission_app" parent="Base.Theme.Dicoding_events_mid_submission_app" />
+
+
+
+    <style name="Text.Title" parent="">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Text.H1" parent="">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Text.H2" parent="" >
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Text.LabelLarge" parent="">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Text.LabelMedium" parent="">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Text.LabelSmall" parent="">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Text.BodyLarge" parent="">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Text.BodyMedium" parent="">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Text.BodySmall" parent="">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>

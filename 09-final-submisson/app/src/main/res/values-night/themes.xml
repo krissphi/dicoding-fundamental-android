@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Dicoding_events_mid_submission_app" parent="Theme.Material3.DayNight">
+
+        <item name="colorPrimary">@color/dark_primary</item>
+        <item name="colorOnPrimary">@color/dark_onPrimary</item>
+        <item name="colorPrimaryVariant">@color/dark_primaryVariant</item>
+
+        <item name="colorSecondary">@color/dark_secondary</item>
+        <item name="colorOnSecondary">@color/dark_onSecondary</item>
+        <item name="colorSecondaryVariant">@color/dark_secondaryVariant</item>
+
+        <item name="android:colorBackground">@color/dark_background</item>
+        <item name="colorOnBackground">@color/dark_onBackground</item>
+        <item name="colorSurface">@color/dark_surface</item>
+        <item name="colorOnSurface">@color/dark_onSurface</item>
+
+        <item name="colorError">@color/dark_error</item>
+        <item name="colorOnError">@color/dark_onError</item>
+
+        <item name="android:statusBarColor">@color/dark_statusBarColor</item>
+        <item name="android:navigationBarColor">@color/dark_navBarColor</item>
+
+        <item name="dividerColor">@color/dark_divider</item>
+        <item name="rippleColor">@color/dark_ripple</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Dicoding Events</string>
+
+    <string name="title">Dicoding Events</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_detail_event">Detail Event</string>"
+    <string name="title_search">Semua</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_settings">Settings</string>
+    "
+
+    <string name="to_register">Register</string>
+
+    <string name="label_upcoming">Upcoming Events</string>
+    <string name="label_finished">Finished Events</string>
+    <string name="label_organizer">Penyelenggara :</string>
+    <string name="label_time">Waktu</string>
+    <string name="label_quota">Sisa Kuota</string>
+    <string name="label_city">Lokasi</string>
+    <string name="label_dark_theme">Dark Theme</string>
+    <string name="label_reminder">Daily Event Reminder</string>
+    <string name="label_reminder_description">Receive daily notifications about the nearest active event</string>
+
+    <string name="event_quota">%1$d / %2$d</string>
+
+
+    <string name="dots">:</string>
+    <string name="empty_message">Tidak ada hasil ditemukan.</string>
+    <string name="error_message">Error loading data. periksa koneksi dan coba lagi</string>
+    <string name="retry">Retry</string>
+    <string name="searchbar_hint">Search Event</string>
+
+    <style name="RoundedImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

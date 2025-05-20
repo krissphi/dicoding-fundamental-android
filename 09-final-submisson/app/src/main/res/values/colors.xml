@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="Gray">#F5F5F5</color>
+
+    <color name="light_primary">#1565C0</color>
+    <color name="light_primaryVariant">#0D47A1</color>
+    <color name="light_onPrimary">#FFFFFF</color>
+    <color name="light_secondary">#FF8A65</color>
+    <color name="light_secondaryVariant">#FF7043</color>
+    <color name="light_onSecondary">#000000</color>
+    <color name="light_background">#FAFAFA</color>
+    <color name="light_onBackground">#212121</color>
+    <color name="light_surface">#FFFFFF</color>
+    <color name="light_onSurface">#424242</color>
+    <color name="light_accent">#26A69A</color>
+    <color name="light_error">#B00020</color>
+    <color name="light_onError">#FFFFFF</color>
+
+    <color name="light_statusBarColor">#0D47A1</color>
+    <color name="light_navBarColor">#FFFFFF</color>
+    <color name="light_cardBackground">#FFFFFF</color>
+    <color name="light_divider">#E0E0E0</color>
+    <color name="light_ripple">#1F000000</color>
+
+    <color name="dark_primary">#64B5F6</color>
+    <color name="dark_primaryVariant">#42A5F5</color>
+    <color name="dark_onPrimary">#000000</color>
+    <color name="dark_secondary">#FF7043</color>
+    <color name="dark_secondaryVariant">#FF5722</color>
+    <color name="dark_onSecondary">#000000</color>
+    <color name="dark_background">#121212</color>
+    <color name="dark_onBackground">#E0E0E0</color>
+    <color name="dark_surface">#1D1D1D</color>
+    <color name="dark_onSurface">#EEEEEE</color>
+    <color name="dark_accent">#4DB6AC</color>
+    <color name="dark_error">#CF6679</color>
+    <color name="dark_onError">#000000</color>
+
+    <color name="dark_statusBarColor">#000000</color>
+    <color name="dark_navBarColor">#121212</color>
+    <color name="dark_cardBackground">#252525</color>
+    <color name="dark_divider">#3D3D3D</color>
+    <color name="dark_ripple">#33FFFFFF</color>
+</resources>
